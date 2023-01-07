@@ -1,7 +1,9 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Work Sans', sans-serif;
 }
+
 /* banner section starts here */
 .banner {
     display: absolute;
@@ -42,4 +44,172 @@
     border: 0;
     padding: 18px 35px;
 }
+
+.btn-style-1{
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2393.3px;
+    color: #b85209;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0;
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+
+.btn-style-2{
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2393.3px;
+    color: #b85209;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
 /* banner section ends here */
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.section {
+    padding: 30px 0;
+}
+
+.my-section {
+    display: flex;
+    /* width: 100%;
+    height: 50vh; */
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+
+}
+
+.my-title {
+    font-size: 2.5rem;
+}
+
+.my-desc {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
+.my-desc i {
+    color: aqua;
+    font-weight: 700;
+}
+
+.my-section-content {
+    padding: 30px;
+}
+
+.p-10 {
+    padding: 10px 0px;
+}
+
+.px-8 {
+    padding: 8px 0;
+}
+
+.plan-title {
+    text-align: center;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+}
+.plan-header{
+    font-size: 1.7rem;
+    font-weight: 700;
+    padding-top: 15px;
+}
+
+.plan-desc{
+    font-size: 1.3rem;
+    padding-top: 15px;
+    color: gray;
+    font-weight: bold;
+}
+
+.plan-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plan-item {
+    min-width: 280px;
+    text-align: center;
+}
+
+.wraper {
+    background: url(../images/watch.png) no-repeat;
+
+    position: relative;
+}
+
+.grad-content {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0%, -50%);
+    z-index: 10;
+    padding-left: 60px;
+    border-radius: 15px;
+}
+.grad-content h2{
+    color: #FFFFFF;
+    font-size: 2.5rem;
+    padding-bottom: 15px;
+}
+
+.contact {
+
+    background-color: black;
+    color: #ffffff;
+
+}
+
+.contact-title{
+    font-size: 2.5rem;
+}
+
+.contact-title-1{
+    font-size: 1.5rem;
+}
+
+.contact-image{
+    gap: 15px;
+} 
+
+.contact-left {
+    width: 50%;
+}
+
+.contact-right {
+    width: 50%;
+    margin-top: 16px;
+   
+}
+
+.d-flex {
+    display: flex;
+}
+
+.contact-right input {
+    display: block;
+    padding: 20px 15px;
+    min-width: 300px;
+    margin: 15px 0;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+}
