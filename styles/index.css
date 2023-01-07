@@ -45,7 +45,7 @@
     padding: 18px 35px;
 }
 
-.btn-style-1{
+.btn-style-1 {
     width: 160px;
     height: 64px;
     left: 294px;
@@ -56,10 +56,10 @@
     border: 0;
     font-size: 18px;
     font-weight: 600;
-    
+
 }
 
-.btn-style-2{
+.btn-style-2 {
     width: 160px;
     height: 64px;
     left: 294px;
@@ -124,13 +124,14 @@
     font-size: 1.5rem;
     padding-bottom: 10px;
 }
-.plan-header{
+
+.plan-header {
     font-size: 1.7rem;
     font-weight: 700;
     padding-top: 15px;
 }
 
-.plan-desc{
+.plan-desc {
     font-size: 1.3rem;
     padding-top: 15px;
     color: gray;
@@ -163,7 +164,8 @@
     padding-left: 60px;
     border-radius: 15px;
 }
-.grad-content h2{
+
+.grad-content h2 {
     color: #FFFFFF;
     font-size: 2.5rem;
     padding-bottom: 15px;
@@ -176,17 +178,17 @@
 
 }
 
-.contact-title{
+.contact-title {
     font-size: 2.5rem;
 }
 
-.contact-title-1{
+.contact-title-1 {
     font-size: 1.5rem;
 }
 
-.contact-image{
+.contact-image {
     gap: 15px;
-} 
+}
 
 .contact-left {
     width: 50%;
@@ -195,7 +197,7 @@
 .contact-right {
     width: 50%;
     margin-top: 16px;
-   
+
 }
 
 .d-flex {
